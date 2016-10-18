@@ -1,0 +1,20 @@
+{
+  "name": "isExposure",
+  "version": "1.0.0",
+  "description": "检查目标元素是否已曝光，是否处于浏览器可视区域内",
+  "author": "gavinning",
+  "keywords": [
+    "isExposure",
+    "inViewport",
+    "exposure",
+    "viewport",
+    "曝光",
+    "可视区域",
+    "可是区域检测"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aimeejs/isExposure.git",
+    "bugs": "https:/github.com/Aimeejs/isExposure/issues"
+  }
+}
